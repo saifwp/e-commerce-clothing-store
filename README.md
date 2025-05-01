@@ -1,5 +1,3 @@
-# armas-fashion-website  
-A custom WordPress website developed for **ARMAS**, a bold new fashion brand by KAP. Designed to reflect originality, femininity, and freedom — this website showcases modern aesthetics, intuitive navigation, and a mobile-first, SEO-optimized structure.  
 # ARMAS Fashion Website – [Live Website](https://armasclothing.com/) 
 
 ---
